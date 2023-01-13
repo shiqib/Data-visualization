@@ -1,7 +1,7 @@
 # Data Visualization Using Plotly.js
 Data visualization
 
-n this project, we’ll apply basic data visualization concepts using the Plotly.js library, which is a JavaScript open-source graphing library.
+In this project, we’ll apply basic data visualization concepts using the Plotly.js library, which is a JavaScript open-source graphing library.
 
 We can create more than 40 types of charts using Plotly, which includes multiple 3D charts, statistical graphs, and SVG maps. The best thing about Plotly is that we can easily create interactive and publication-quality graphs.
 
