@@ -1,5 +1,4 @@
 # Data Visualization Using Plotly.js
-Data visualization
 
 In this project, we’ll apply basic data visualization concepts using the Plotly.js library, which is a JavaScript open-source graphing library.
 
